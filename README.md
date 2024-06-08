@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Open CV <br>👯 I’m looking to collaborate on Voice Processing<br>🌱 I’m currently learning Image Processing <br>💬 Ask me about Robotics
+🔭 I’m currently working on LLMs <br>👯 I’m looking to collaborate on Vllms <br>🌱 I’m currently learning Speech Recognition <br>💬 Ask me about Robotics
 
 
 # 💻 Tech Stack:
