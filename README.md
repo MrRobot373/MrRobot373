@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ADAS <br>👯 I’m looking to collaborate on Vllms <br>🌱 I’m currently learning Automotive AIML <br>💬 Ask me about Robotics/AIML
+🔭 I’m currently working on AI Agents <br>👯 I’m looking to collaborate on Agentic ai solutions <br>🌱 I’m currently learning Fullstack AIML <br>💬 Ask me about Robotics/AIML
 
 
 # 💻 Tech Stack:
